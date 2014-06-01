@@ -11,6 +11,8 @@ public class MenuTest {
 
 	@Then("^Main \"([^\"]*)\" should be \"([^\"]*)\"$")
 	public void MenuLinks_should_be_present(String obj,String result) throws Throwable {
-		 System.out.println(obj+"should be "+result);	}
+		 System.out.println(obj+"should be "+result);	
+	    System.out.println("Adding another line for git");	 
+	}
 
 }
