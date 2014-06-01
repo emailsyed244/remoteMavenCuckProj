@@ -13,7 +13,7 @@ public class MenuTest {
 	public void MenuLinks_should_be_present(String obj,String result) throws Throwable {
 		 System.out.println(obj+"should be "+result);	
 	     System.out.println("Adding 1st line for git");
-	     System.out.println("Adding 2nd line from kepler");
+	     System.out.println("Adding 2nd line from keple----addition for branch 2");
 	}
 
 }
