@@ -64,7 +64,7 @@ public class LoginTest {
     	System.out.println("Login test ending for branch...!");
     	selenium.quitDriver();
      }catch(Exception e){
-    	 System.out.println("HOmeLink is failing....!");
+    	 System.out.println("HOmeLink is failing....for remote branch1....!");
      }finally{
     	 selenium.quitDriver();
      }	
