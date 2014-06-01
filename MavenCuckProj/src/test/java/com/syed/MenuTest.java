@@ -14,7 +14,9 @@ public class MenuTest {
 		 System.out.println(obj+"should be "+result);	
 	     System.out.println("Adding 1st line for git");
 	     System.out.println("Adding 2nd line from keple----addition for branch 2");
+	     System.out.println("Adding 3rd line from keppler----for conflict");
 	     System.out.println("Adding line from Juno...for conflict...!");
+
 	}
 
 }
