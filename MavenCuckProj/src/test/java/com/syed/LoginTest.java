@@ -61,6 +61,7 @@ public class LoginTest {
     	}else{
     		Assert.assertTrue("User is not logged in",false);
     	}    	
+    	System.out.println("Login test ending for branch...!");
     	selenium.quitDriver();
      }catch(Exception e){
     	 System.out.println("HOmeLink is failing....!");
