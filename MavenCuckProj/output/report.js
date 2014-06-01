@@ -7,7 +7,7 @@ formatter.feature({
   "line": 1
 });
 formatter.before({
-  "duration": 3002142,
+  "duration": 1499634,
   "status": "passed"
 });
 formatter.scenario({
@@ -38,7 +38,7 @@ formatter.match({
   "location": "MenuTest.I_am_logged_in()"
 });
 formatter.result({
-  "duration": 152313678,
+  "duration": 133999089,
   "status": "passed"
 });
 formatter.match({
@@ -55,11 +55,11 @@ formatter.match({
   "location": "MenuTest.MenuLinks_should_be_present(String,String)"
 });
 formatter.result({
-  "duration": 3483274,
+  "duration": 1828872,
   "status": "passed"
 });
 formatter.after({
-  "duration": 93599,
+  "duration": 43926,
   "status": "passed"
 });
 });
